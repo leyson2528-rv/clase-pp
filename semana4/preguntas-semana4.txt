@@ -1,0 +1,14 @@
+Pregunta 5:
+Se creó correctamente la carpeta semana4.
+
+Pregunta 6:
+Se inicializó el proyecto Node.js utilizando el comando npm init -y y se instaló la dependencia Express.
+
+Pregunta 7:
+Se creó el archivo server.js con la configuración básica de un servidor utilizando Express.
+
+Pregunta 8:
+Se ejecutó el servidor con node server.js y se verificó su funcionamiento mediante el navegador en la dirección http://localhost:3000.
+
+Pregunta 9:
+Se realizó una reflexión sobre la importancia de que las comunidades desarrollen herramientas tecnológicas utilizando tecnologías abiertas como Node.js.
